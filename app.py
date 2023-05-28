@@ -94,7 +94,7 @@ def routestart(start):
     #returning the object
     return jsonify(Temperatures)
 
-# 8. Define what to do when a user hits the /about route
+# 8. Define what to do when a user hits the /api/v1.0/<start>/<end> route
 @app.route("/api/v1.0/<start>/<end>")
 def routeend(start , end):
     #Treating possible mystakes when typing the start date
