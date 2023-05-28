@@ -9,7 +9,7 @@
 ![image](https://github.com/Daniels2023/SQLalchemy/assets/124798004/a4ab9592-0cff-4369-9f4b-95bafd3e7b84)
 # 
 
-**Once the dataset is reflected I was able to start querying the requirements analysis and create a DataFrame using Pandas.**
+**Once the dataset is reflected I was able to start querying the requirement analysis and create a DataFrame using Pandas.**
 
 ![image](https://github.com/Daniels2023/SQLalchemy/assets/124798004/0fe349ba-aad0-4b0d-8a56-bc9621192f37)
 ![image](https://github.com/Daniels2023/SQLalchemy/assets/124798004/e0f59cad-a04e-44a7-afd3-0fc75a20388c)
