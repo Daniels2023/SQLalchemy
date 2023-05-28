@@ -15,7 +15,7 @@
 ![image](https://github.com/Daniels2023/SQLalchemy/assets/124798004/e0f59cad-a04e-44a7-afd3-0fc75a20388c)
 # 
 
-**Considering the most active surf station in Hawaii we could answer what is the average climate temperature.**
+**Considering the most active surf station in Hawaii this histogram chart can answer what is the average climate temperature between Aug-2016 and Aug-2017.**
 
 ![image](https://github.com/Daniels2023/SQLalchemy/assets/124798004/b9edbc11-d70d-4dc8-975e-03407fd682b6)
 # 
