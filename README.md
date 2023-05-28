@@ -29,6 +29,8 @@
 # 
 
 **The last webpage allows you to insert a start and end date to check the max, min and average temperature between these specific periods.**
+
 ![image](https://github.com/Daniels2023/SQLalchemy/assets/124798004/03ef8d90-f293-45e0-850b-ee181983dec4)
+
 *The range of dates is between 2010-01-01 to 2017-08-23*
 # 
